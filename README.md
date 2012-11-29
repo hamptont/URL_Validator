@@ -1,6 +1,9 @@
 Quiz Section Project: URL Validating and Testing
+
 Hampton Terry
+
 11-28-2012
+
 CSE403
 
 November 28th Release:
